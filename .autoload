@@ -1,0 +1,18 @@
+#
+# vim:syntax=sh
+# daemon - generic daemon software
+#
+
+id="lists"
+
+echo
+echo double-linked lists library
+echo
+
+#checkProjs()
+#{
+###prova
+#
+#}
+
+settitle "$id":$(date +%H%M)
