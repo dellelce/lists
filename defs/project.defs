@@ -1,0 +1,25 @@
+#
+# Sample language used for describing List libs
+#
+# Main description
+#
+PROJECT=Lists
+TARGET=liblists.a
+TYPE="lib"
+#
+# Project specifics
+#
+PROJECT_SHELL=bash
+#
+# Includes
+#
+INCLUDES="includes"
+#
+# Directores
+#
+SRC_DIR="src"
+OBJ_DIR="obj"
+#
+# Optionally use SEGMENTED LISTS
+#
+#DEFINES="-DSEGMENTED_LISTS"
